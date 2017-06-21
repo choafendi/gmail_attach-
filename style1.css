@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+li {
+    list-style-type: none;
+    padding-right: 1.4em;
+    padding-bottom: 0.75em;
+}
+
+label {
+  padding-bottom: 10px;
+  display: inline-block;
+  padding-right: 40px;
+  width: 19%;
+}
+
+
+
+
+input {
+  width: 80%
+}
+
+
+
+
+.navbar{
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+}
+
+textarea{
+  width: 100%;
+}
+
+body {
+  background-color: #06D1B5 ;
+}
+
+form {
+  background-color: #ADD8E6 ;
+}
